@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -25,7 +24,9 @@ Here are some ideas to get you started:
         <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=false"/>
       </td>
       <td>
-        (https://github-readme-streak-stats.herokuapp.com?user=eunrcn&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=eunrcn&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+        </a>
       </td> 
     </tr>
     <tr>
