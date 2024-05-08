@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=false"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=eunrcn&no-bg=true"/>
