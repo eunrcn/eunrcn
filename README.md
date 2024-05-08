@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=false"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=true"/>
       </td>
       <td>
         <a href="https://git.io/streak-stats">
