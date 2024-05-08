@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <img src="https://readmestats-git-master-eunices-projects-aa4ae7df.vercel.app/api?username=eunrcn&count_private=true&show_icons=true&theme=gradient"/>
       </td>
       <td>
-        <img src="https://readmestats-80a6lzz6e-eunices-projects-aa4ae7df.vercel.app/api/top-langs/?username=eunrcn&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&no-bg=true"/>
+        ![Top Langs](https://readmestats-git-master-eunices-projects-aa4ae7df.vercel.app/api/top-langs/?username=eunrcn&layout=compact)
       </td>
     </tr>
   </table>
