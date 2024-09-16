@@ -31,14 +31,7 @@ Here are some ideas to get you started:
         </a>
       </td> 
     </tr>
-    <tr>
-      <td>
-        <img src="https://readmestats-git-master-eunices-projects-aa4ae7df.vercel.app/api?username=eunrcn&count_private=true&show_icons=true&theme=transparent"/>
-      </td>
-      <td>
-        <img src="https://readmestats-git-master-eunices-projects-aa4ae7df.vercel.app/api/top-langs/?username=eunrcn&layout=compact&theme=transparent"/>
-      </td>
-    </tr>
   </table>
   
 </details>
+
