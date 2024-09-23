@@ -1,6 +1,18 @@
+
   <p align="center">
     <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
   </p>
+
+
+
+<details>
+  <summary>:package: My Projects</summary>
+  
+  - [Project 1](https://github.com/eunrcn/project1): ww.
+  - [Project 2](https://github.com/eunrcn/project2): ww.
+  - [Project 3](https://github.com/eunrcn/project3): ww.
+
+</details>
 
 
 <details>
