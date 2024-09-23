@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Ln8Nodn3UQvF0/giphy.gif" alt="Animated Pomeranian" width="300"/>
+  <img src="https://media.giphy.com/media/GiXBNzilzkHH1GY7Vc/giphy.gif" alt="Rainbow Pastel Background" style="width: 100%;"/>
 </p>
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
