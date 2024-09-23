@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
-</p>
-
 <!--
 <details>
   <summary>:package: My Projects</summary>
@@ -13,17 +9,33 @@
 </details>
 -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
+</p>
+
+<!-- Introduction -->
+<p align="center">
+  <strong>👩‍💻 About Me:</strong>
+</p>
+<ul>
+  <li>Hi, I'm Eunice, a third-year Computer Science student at NUS.</li>
+  <li>I'm a passionate software engineer with experience in both mobile and web development.</li>
+  <li>Proficient in Java, Python, React, and Android development.</li>
+  <li>Enthusiastic about AI and its real-world applications.</li>
+  <li>A lifelong learner, always looking to improve my coding skills and explore new technologies.</li>
+</ul>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
   <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=eunrcn&label=Profile%20views&color=0e75b6&style=flat" alt="eunrcn" /> 
+    <img src="https://komarev.com/ghpvc/?username=eunrcn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for eunrcn" /> 
   </p>
   
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=true"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=eunrcn&row=3&column=4&no-bg=true" alt="GitHub Trophy"/>
       </td>
       <td>
         <a href="https://git.io/streak-stats">
@@ -34,15 +46,3 @@
   </table>
   
 </details>
-
-<!-- Introduction -->
-<p align="center">
-  <strong>👩‍💻 About Me:</strong>
-</p>
-<ul>
-  <li>Passionate software engineer with experience in mobile and web development.</li>
-  <li>Proficient in Java, Python, React, and Android development.</li>
-  <li>Enthusiastic about AI and its applications in real-world problems.</li>
-  <li>Avid learner, continuously seeking to improve coding skills and explore new technologies.</li>
-</ul>
-
