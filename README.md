@@ -1,10 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
+</p>
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
-  </p>
-
-
-
+<!--
 <details>
   <summary>:package: My Projects</summary>
   
@@ -13,7 +11,7 @@
   - [Project 3](https://github.com/eunrcn/project3): ww.
 
 </details>
-
+-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -36,3 +34,15 @@
   </table>
   
 </details>
+
+<!-- Introduction -->
+<p align="center">
+  <strong>👩‍💻 About Me:</strong>
+</p>
+<ul>
+  <li>Passionate software engineer with experience in mobile and web development.</li>
+  <li>Proficient in Java, Python, React, and Android development.</li>
+  <li>Enthusiastic about AI and its applications in real-world problems.</li>
+  <li>Avid learner, continuously seeking to improve coding skills and explore new technologies.</li>
+</ul>
+
