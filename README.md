@@ -10,8 +10,9 @@
 -->
 
 <p align="center">
-  <strong style="font-size: 88px;">bonjour mon ami! 👋</strong>
+  <strong>## Bonjour mon ami! 👋</strong>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
