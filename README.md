@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/Ln8Nodn3UQvF0/giphy.gif" alt="Animated Pomeranian" width="300"/>
+</p>
 
 
 <details>
