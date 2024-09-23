@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <strong>## Bonjour mon ami! 👋</strong>
+## bonjour mon ami! 👋
 </p>
 
 
