@@ -13,9 +13,8 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">
-  <strong>👩‍💻 About Me:</strong>
-</p>
+<strong>👩‍💻 About Me:</strong>
+
 <p align="center">
   <ul style="list-style-type: none; padding: 0;">
     <li>Hi, I'm Eunice, a third-year Computer Science student at NUS.</li>
