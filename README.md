@@ -26,7 +26,7 @@
 </p>
 
 <details>
-  <strong><summary>:zap: GitHub Stats</summary></strong>
+  <summary>:zap: GitHub Stats</summary>
   
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=eunrcn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for eunrcn" /> 
