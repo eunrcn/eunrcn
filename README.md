@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://giphy.com/gifs/glitch-art-vaporwave-caitlin-burns-3o7TKtDXJ48AogQxBC" alt="ww" style="width: 100%;"/>
-</p>
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
