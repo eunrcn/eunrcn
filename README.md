@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <strong style="font-size: 48px;">bonjour mon ami!</strong>
+  <strong style="font-size: 88px;">bonjour mon ami! 👋</strong>
 </p>
 
 <p align="center">
