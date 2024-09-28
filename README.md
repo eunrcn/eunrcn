@@ -27,7 +27,6 @@ bonjour mon ami! 👋
     <li>I'm a passionate software engineer with experience in both mobile and web development.</li>
     <li>Proficient in Java, Python, React, and Android development.</li>
     <li>Enthusiastic about AI and its real-world applications.</li>
-    <li>A lifelong learner, always looking to improve my coding skills and explore new technologies.</li>
   </ul>
 </p>
 
