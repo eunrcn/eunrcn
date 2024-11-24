@@ -13,10 +13,11 @@
 bonjour mon ami! 👋
 </p>
 
-
+<!-- 
 <p align="center">
   <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Animated GIF" />
 </p>
+-->
 
 <!-- Introduction -->
 <strong>👩‍💻 About Me:</strong>
